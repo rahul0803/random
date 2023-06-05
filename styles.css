@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  margin-top: 5%;
+  background-color: beige;
+}
+
+#para {
+  color: darkblue;
+  font-size: xx-large;
+  margin-top: 10%;
+  display: none;
+}
